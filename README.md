@@ -20,4 +20,15 @@ pip install -r requirements.txt
 
 ### Installing
 
-WIP
+`config.py` contents:
+
+```
+client_id = "YOUR_CLIENT_ID"
+client_secret = "YOUR_CLIENT_SECRET"
+user_agent = "YOUR_USER_AGENT"s
+
+reddit_un = "YOUR_REDDIT_UN"
+reddit_pw = "YOUR_REDDIT_PW"
+```
+
+WIP.
